@@ -1,0 +1,20 @@
+Reporte de reflexión:
+
+1. Desafios encontrados:
+
+Uno de los principales desafíos que encontré fue el uso de qudo gen para la corrección de errores cuando los tests fallaban.
+Intenté realizar TDD, pero la herramienta siempre se quedaba colgada al usar fix code.
+
+2. Resoluciones:
+
+En lugar de utilizar la parte generación de pruebas unitarias de qudo gen, utilicé el chat de la herramienta
+aceptando las sugerencias para ir corrigiiendo la función. Y también pedirle cambios al correr todos los tests
+y ver que algunos seguian fallando.
+
+3. Aprendizaje:
+
+Se que es muy importante el testing en el desarrollo de software pero la verdad que también es algo que en
+la práctica a veces es  difícil de implementar, ya que lleva mucho tiempo y si además uno entra en un proyecto
+grande que no tiene pruebas unitarias, más todavia.
+Pero con estas herramientas es mucho más fácil de implementar y de mantener. Y además me resultaron muy utiles
+todas las sugerencias de tests que te da.
